@@ -106,7 +106,7 @@
     },
     "Texts": {
       "Eng": "Alright, partner, I'll jus' be right here.",
-      "Rus": ""
+      "Rus": "Хорошо, партнёр, я останусь здесь."
     }
   },
   {
@@ -269,7 +269,7 @@
     },
     "Texts": {
       "Eng": "Comin' back to bein' gives me the shakes...",
-      "Rus": ""
+      "Rus": "Меня трясёт, когда я возвращаюсь к жизни..."
     }
   },
   {
@@ -347,7 +347,7 @@
     },
     "Texts": {
       "Eng": "Don't worry about me, I'll hold up here until you have need of me again, partner.",
-      "Rus": ""
+      "Rus": "Не волнуйся за меня, я побуду здесь пока снова не буду нуж<self.pronoun.verb2Ending> тебе, партнёр."
     }
   },
   {
@@ -742,7 +742,7 @@
     },
     "Texts": {
       "Eng": "I can hold up here, if you'd like.",
-      "Rus": ""
+      "Rus": "Я могу подождать здесь, если ты хочешь."
     }
   },
   {
@@ -859,7 +859,7 @@
     },
     "Texts": {
       "Eng": "I may forget where I came from, but I know where I wanna go - with you, partner!",
-      "Rus": ""
+      "Rus": "Я могу забыть, откуда я пришел, но я знаю, что буду ходить только с тобой, партнёр!"
     }
   },
   {
@@ -871,7 +871,7 @@
     },
     "Texts": {
       "Eng": "I saw a bright light... No, wait, that was just me.",
-      "Rus": ""
+      "Rus": "Я видел яркий свет... О, подожди-ка, это был я."
     }
   },
   {
