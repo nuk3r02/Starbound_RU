@@ -387,7 +387,7 @@
       "shared_lightbulb.json": 1
     },
     "glitchEmotes.json": 497,
-    "help.config.json": 62,
+    "help.config.json": 66,
     "hunger.config.json": 14,
     "interface": {
       "ai": {
@@ -560,6 +560,7 @@
         "deletedialog.config.json": 1,
         "error.config.json": 1,
         "graphicsmenu.config.json": 10,
+        "joinrequest.config.json": 0,
         "keybindingsmenu.config.json": 51,
         "merchant.config.json": 2,
         "multiplayer.config.json": 5,
@@ -1184,11 +1185,11 @@
           "staff": {
             "abilities": {
               "controlprojectile": {
-                "elementbouncer.weaponability.json": 0,
+                "elementbouncer.weaponability.json": 1,
                 "elementorb.weaponability.json": 1,
                 "elementportal.weaponability.json": 1,
                 "elementrain.weaponability.json": 1,
-                "elementswarm.weaponability.json": 0,
+                "elementswarm.weaponability.json": 1,
                 "kluexshooter.weaponability.json": 1,
                 "plasmabarrage.weaponability.json": 1,
                 "plasmabladebarrage.weaponability.json": 1
@@ -4139,22 +4140,22 @@
             "fishingeel.monstertype.json": 2
           },
           "fang": {
-            "fishingfang.monstertype.json": 0
+            "fishingfang.monstertype.json": 1
           },
           "funny": {
             "fishingfunny.monstertype.json": 0
           },
           "gaze": {
-            "fishinggaze.monstertype.json": 0
+            "fishinggaze.monstertype.json": 1
           },
           "glob": {
             "fishingglob.monstertype.json": 0
           },
           "jaw": {
-            "fishingjaw.monstertype.json": 0
+            "fishingjaw.monstertype.json": 1
           },
           "leech": {
-            "fishingleech.monstertype.json": 0
+            "fishingleech.monstertype.json": 1
           },
           "nose": {
             "fishingnose.monstertype.json": 0
@@ -4567,7 +4568,7 @@
       }
     },
     "names": {
-      "ancientgreek.namesource.json": 609,
+      "ancientgreek.namesource.json": 612,
       "aztec.namesource.json": 138,
       "russianfemale.namesource.json": 81,
       "russianmale.namesource.json": 73,
@@ -5696,7 +5697,7 @@
           "paintingshakespeare.object.json": 6
         },
         "paintingstarrynight": {
-          "paintingstarrynight.object.json": 0
+          "paintingstarrynight.object.json": 5
         },
         "persistenceofpixels": {
           "persistenceofpixels.object.json": 0
@@ -5740,7 +5741,7 @@
           "shared_statue.object.json": 0
         },
         "shroomstatue": {
-          "shroomstatue.object.json": 0
+          "shroomstatue.object.json": 6
         },
         "tenstudiesoffemalehylotlgy": {
           "tenstudiesinfemalehylotlgy.object.json": 0
@@ -5819,7 +5820,7 @@
           "birdbed.object.json": 8
         },
         "birddoor": {
-          "birddoor.object.json": 3
+          "birddoor.object.json": 5
         },
         "birdgodemblem": {
           "birdgodemblem.object.json": 0
@@ -6019,7 +6020,7 @@
           "shipwheel.object.json": 0
         },
         "smalljar1": {
-          "smalljar1.object.json": 0
+          "smalljar1.object.json": 4
         },
         "spearrack": {
           "spearrack.object.json": 9
@@ -6191,7 +6192,7 @@
             "glowchair.object.json": 0
           },
           "glowchest": {
-            "glowchest.object.json": 0
+            "glowchest.object.json": 1
           },
           "glowflower": {
             "shared_glowflower.json": 0
@@ -6300,37 +6301,37 @@
         },
         "colourful": {
           "colourfulbush1": {
-            "colourfulbush1.object.json": 0
+            "colourfulbush1.object.json": 1
           },
           "colourfulbush2": {
-            "colourfulbush2.object.json": 0
+            "colourfulbush2.object.json": 1
           },
           "colourfulbush3": {
-            "colourfulbush3.object.json": 0
+            "colourfulbush3.object.json": 1
           },
           "colourfulbush4": {
-            "colourfulbush4.object.json": 0
+            "colourfulbush4.object.json": 1
           },
           "colourfulbush5": {
-            "colourfulbush5.object.json": 0
+            "colourfulbush5.object.json": 1
           },
           "rainbowbed": {
-            "rainbowbed.object.json": 0
+            "rainbowbed.object.json": 9
           },
           "rainbowchair": {
-            "rainbowchair.object.json": 0
+            "rainbowchair.object.json": 9
           },
           "rainbowchest": {
-            "rainbowchest.object.json": 0
+            "rainbowchest.object.json": 9
           },
           "rainbowdoor": {
-            "rainbowdoor.object.json": 0
+            "rainbowdoor.object.json": 9
           },
           "rainbowtable": {
-            "rainbowtable.object.json": 0
+            "rainbowtable.object.json": 8
           },
           "shared_colourfulbush": {
-            "shared_colourfulbush.json": 0
+            "shared_colourfulbush.json": 7
           }
         },
         "coralcave": {
@@ -6401,7 +6402,7 @@
             "sandstonechair.object.json": 0
           },
           "sandstonechest": {
-            "sandstonechest.object.json": 0
+            "sandstonechest.object.json": 2
           },
           "sandstonedoor": {
             "sandstonedoor.object.json": 0
@@ -6444,10 +6445,10 @@
             "fleshchest.object.json": 5
           },
           "fleshdoor": {
-            "fleshdoor.object.json": 0
+            "fleshdoor.object.json": 5
           },
           "fleshtable": {
-            "fleshtable.object.json": 0
+            "fleshtable.object.json": 2
           },
           "shared_fleshbush": {
             "shared_fleshbush.json": 0
@@ -6754,7 +6755,7 @@
             "icechair.object.json": 0
           },
           "icechest": {
-            "icechest.object.json": 0
+            "icechest.object.json": 2
           },
           "icedoor": {
             "icedoor.object.json": 0
@@ -6866,10 +6867,10 @@
             "brokenanchor.object.json": 8
           },
           "shared_oshroom": {
-            "shared_oshroom.json": 0
+            "shared_oshroom.json": 8
           },
           "shared_seashell": {
-            "shared_seashell.json": 5
+            "shared_seashell.json": 8
           }
         },
         "prism": {
@@ -7256,7 +7257,7 @@
             "splendidplant.object.json": 0
           },
           "springchest": {
-            "springchest.object.json": 0
+            "springchest.object.json": 2
           },
           "vibrantplant": {
             "vibrantplant.object.json": 0
@@ -7326,16 +7327,16 @@
         "swamp": {
           "shared_.object.json": 0,
           "swampbed": {
-            "swampbed.object.json": 0
+            "swampbed.object.json": 2
           },
           "swampchair": {
-            "swampchair.object.json": 0
+            "swampchair.object.json": 1
           },
           "swampchest": {
-            "swampchest.object.json": 0
+            "swampchest.object.json": 2
           },
           "swamptable": {
-            "swamptable.object.json": 0
+            "swamptable.object.json": 3
           },
           "swampybed": {
             "swampybed.object.json": 0
@@ -7784,7 +7785,7 @@
         "cocoa": {
           "cocoaseed.object.json": 7,
           "shared_cocoaseed.object.json": 1,
-          "wildcocoaseed.object.json": 0
+          "wildcocoaseed.object.json": 1
         },
         "coffee": {
           "coffeeseed.object.json": 1,
@@ -7800,7 +7801,7 @@
         "cotton": {
           "cottonseed.object.json": 1,
           "shared_cottonseed.object.json": 7,
-          "wildcottonseed.object.json": 0
+          "wildcottonseed.object.json": 1
         },
         "crystalplant": {
           "shared_crystalplantseed.object.json": 8
@@ -8035,7 +8036,7 @@
           "floranpelt1.object.json": 9
         },
         "floranpelt2": {
-          "floranpelt2.object.json": 2
+          "floranpelt2.object.json": 9
         },
         "floranpelt3": {
           "floranpelt3.object.json": 0
@@ -8080,7 +8081,7 @@
           "florantoilet.object.json": 7
         },
         "huntingbench": {
-          "huntingbench.object.json": 4
+          "huntingbench.object.json": 8
         },
         "huntingbigstatue": {
           "huntingbigstatue.object.json": 8
@@ -8290,7 +8291,7 @@
           "shared_florandrum.json": 8
         },
         "shared_floranopenpod": {
-          "shared_floranopenpod.json": 0
+          "shared_floranopenpod.json": 6
         },
         "shared_floranpod": {
           "shared_floranpod.json": 0
@@ -8305,7 +8306,7 @@
           "shared_huntingpunjisticks.json": 0
         },
         "shared_planturn": {
-          "shared_planturn.json": 0
+          "shared_planturn.json": 7
         },
         "shared_plantvolcano": {
           "shared_plantvolcano.json": 6
@@ -8358,7 +8359,7 @@
           "biohazardsign.object.json": 5
         },
         "birdsnest": {
-          "birdsnest.object.json": 0
+          "birdsnest.object.json": 2
         },
         "bluelight": {
           "bluelight.object.json": 9
@@ -8370,7 +8371,7 @@
           "box2.object.json": 9
         },
         "burningcoals": {
-          "burningcoals.object.json": 0
+          "burningcoals.object.json": 3
         },
         "butterflybush": {
           "butterflybush.object.json": 0
@@ -8391,16 +8392,16 @@
           "capsulespace.object.json": 0
         },
         "carbed": {
-          "carbed.object.json": 2
+          "carbed.object.json": 4
         },
         "cardboard1": {
           "cardboard1.object.json": 2
         },
         "cardboard2": {
-          "cardboard2.object.json": 0
+          "cardboard2.object.json": 5
         },
         "cardboard3": {
-          "cardboard3.object.json": 0
+          "cardboard3.object.json": 5
         },
         "ceilingfridge1": {
           "largecooler1.object.json": 5
@@ -8409,7 +8410,7 @@
           "claypot1.object.json": 1
         },
         "claypot2": {
-          "claypot2.object.json": 1
+          "claypot2.object.json": 4
         },
         "claypot3": {
           "claypot3.object.json": 1
@@ -8433,7 +8434,7 @@
           "cropshipper.object.json": 9
         },
         "cultistaltar": {
-          "cultistaltar.object.json": 0
+          "cultistaltar.object.json": 2
         },
         "datastation": {
           "datastation.object.json": 0
@@ -9361,7 +9362,7 @@
           "diamonddisplay.object.json": 9
         },
         "goldenpedestal": {
-          "goldenpedestal.object.json": 3
+          "goldenpedestal.object.json": 6
         },
         "goldvase1": {
           "goldvase1.object.json": 0
@@ -9391,7 +9392,7 @@
           "treasurechest.object.json": 0
         },
         "woodencrategoldfilled": {
-          "woodencrategoldfilled.object.json": 3
+          "woodencrategoldfilled.object.json": 8
         }
       },
       "holiday": {
@@ -9686,7 +9687,7 @@
           "bunkertable3.object.json": 8
         },
         "bunkertv": {
-          "bunkertv.object.json": 0
+          "bunkertv.object.json": 2
         },
         "bunkertv2": {
           "bunkertv2.object.json": 8
@@ -9725,7 +9726,7 @@
           "humanstoragelocker.object.json": 1
         },
         "jukebox": {
-          "jukebox.object.json": 0
+          "jukebox.object.json": 4
         },
         "lavalamp1": {
           "lavalamp1.object.json": 1
@@ -9734,13 +9735,13 @@
           "marinesign.object.json": 0
         },
         "microwave": {
-          "microwave.object.json": 1
+          "microwave.object.json": 6
         },
         "oven1": {
           "oven1.object.json": 0
         },
         "prisonarch": {
-          "prisonarch.object.json": 0
+          "prisonarch.object.json": 2
         },
         "prisonbarrelfire": {
           "prisonbarrelfire.object.json": 0
@@ -9767,10 +9768,10 @@
           "prisoncorner.object.json": 0
         },
         "prisondoor": {
-          "prisondoor.object.json": 0
+          "prisondoor.object.json": 2
         },
         "prisonexitsign": {
-          "prisonexitsign.object.json": 0
+          "prisonexitsign.object.json": 3
         },
         "prisonfence1": {
           "prisonfence1.object.json": 0
@@ -9855,15 +9856,15 @@
           "prisonpipefence.object.json": 0
         },
         "prisonradiator": {
-          "prisonradiator.object.json": 0
+          "prisonradiator.object.json": 4
         },
         "prisonsecuritycamera": {
-          "prisonsecuritycamera.object.json": 0
+          "prisonsecuritycamera.object.json": 8
         },
         "prisonshower": {
-          "prisonshower.object.json": 0,
-          "prisonshowerdripping.object.json": 0,
-          "shared_prisonshower.json": 0
+          "prisonshower.object.json": 3,
+          "prisonshowerdripping.object.json": 2,
+          "shared_prisonshower.json": 4
         },
         "prisonsign1": {
           "prisonsign1.object.json": 0
@@ -9878,7 +9879,7 @@
           "prisontable.object.json": 0
         },
         "prisontoilet": {
-          "prisontoilet.object.json": 0
+          "prisontoilet.object.json": 5
         },
         "prisontorturebed1": {
           "prisontorturebed1.object.json": 0
@@ -10101,7 +10102,7 @@
           "hylotlclassicdesk.object.json": 0
         },
         "hylotlclassicgong": {
-          "hylotlclassicgong.object.json": 0
+          "hylotlclassicgong.object.json": 1
         },
         "hylotlclassicpainting1": {
           "hylotlclassicpainting1.object.json": 0
@@ -10341,7 +10342,7 @@
           "pumpsign.object.json": 0
         },
         "quillandink": {
-          "quillandink.object.json": 0
+          "quillandink.object.json": 3
         },
         "salesign": {
           "salesign.object.json": 0
@@ -10431,7 +10432,7 @@
           "tenstudiesplaque.object.json": 0
         },
         "turtleplush": {
-          "turtleplush.object.json": 0
+          "turtleplush.object.json": 3
         },
         "underwaterlight": {
           "underwaterlight.object.json": 0
@@ -10441,7 +10442,7 @@
           "underwaterlightsmallbroken.object.json": 0
         },
         "unicornplush": {
-          "unicornplush.object.json": 0
+          "unicornplush.object.json": 3
         }
       },
       "microformer": {
@@ -10775,25 +10776,25 @@
           "frontierchair.object.json": 0
         },
         "frontierclock": {
-          "frontierclock.object.json": 0
+          "frontierclock.object.json": 2
         },
         "frontiercoffin": {
-          "frontiercoffin.object.json": 0
+          "frontiercoffin.object.json": 5
         },
         "frontierdoor": {
-          "frontierdoor.object.json": 0
+          "frontierdoor.object.json": 6
         },
         "frontierfurnace": {
           "frontierfurnace.object.json": 0
         },
         "frontiergramophone": {
-          "frontiergramophone.object.json": 0
+          "frontiergramophone.object.json": 5
         },
         "frontierhatrack": {
-          "frontierhatrack.object.json": 0
+          "frontierhatrack.object.json": 7
         },
         "frontierironsymbol": {
-          "frontierironsymbol.object.json": 0
+          "frontierironsymbol.object.json": 6
         },
         "frontierlamp": {
           "frontierlamp.object.json": 0
@@ -10802,7 +10803,7 @@
           "frontierlamppost.object.json": 0
         },
         "frontierpainting1": {
-          "frontierpainting1.object.json": 0
+          "frontierpainting1.object.json": 6
         },
         "frontierpainting2": {
           "frontierpainting2.object.json": 0
@@ -10817,7 +10818,7 @@
           "frontierwaterpump.object.json": 0
         },
         "frontierwindmill": {
-          "frontierwindmill.object.json": 0
+          "frontierwindmill.object.json": 7
         },
         "novakidstoragelocker": {
           "novakidstoragelocker.object.json": 1
@@ -10826,7 +10827,7 @@
           "picturestand.object.json": 0
         },
         "safe": {
-          "safe.object.json": 4
+          "safe.object.json": 6
         },
         "saloonbar": {
           "saloonbar.object.json": 0
@@ -10847,7 +10848,7 @@
           "saloonseat.object.json": 0
         },
         "saloonsign": {
-          "saloonsign.object.json": 0
+          "saloonsign.object.json": 7
         },
         "saloonspittoon": {
           "saloonspittoon.object.json": 0
@@ -10856,13 +10857,13 @@
           "saloontable.object.json": 0
         },
         "saloontumbler": {
-          "saloontumbler.object.json": 3
+          "saloontumbler.object.json": 8
         },
         "wagonwheel": {
-          "wagonwheel.object.json": 4
+          "wagonwheel.object.json": 8
         },
         "wantedposter": {
-          "wantedposter.object.json": 2
+          "wantedposter.object.json": 9
         }
       },
       "obstacles": {
@@ -11261,7 +11262,7 @@
             "protectoratedormmirror.object.json": 9
           },
           "protectoratedormtoilet": {
-            "protectoratedormtoilet.object.json": 8
+            "protectoratedormtoilet.object.json": 9
           },
           "protectoratedormtoiletroll": {
             "protectoratedormtoiletroll.object.json": 9
@@ -11498,7 +11499,7 @@
       "shared_door": {
         "shared_door.object.json": 3
       },
-      "shared_door.json": 1,
+      "shared_door.json": 2,
       "shared_ect.json": 5,
       "shared_eextinguisher.json": 1,
       "shared_elevator.json": 6,
@@ -11573,7 +11574,7 @@
       },
       "shared_shelf.json": 2,
       "shared_sign": {
-        "shared_sign.object.json": 0
+        "shared_sign.object.json": 2
       },
       "shared_sink": {
         "shared_sink.object.json": 1
@@ -11602,7 +11603,7 @@
         "shared_.object.json": 2,
         "shared_table.object.json": 1
       },
-      "shared_table.json": 1,
+      "shared_table.json": 2,
       "shared_tech": {
         "shared_console.json": 5
       },
@@ -12067,13 +12068,13 @@
             "plutomodel.object.json": 0
           },
           "satellite": {
-            "satellite.object.json": 0
+            "satellite.object.json": 5
           },
           "saturnmodel": {
             "saturnmodel.object.json": 0
           },
           "spaceshuttlebed": {
-            "spaceshuttlebed.object.json": 0
+            "spaceshuttlebed.object.json": 8
           },
           "sunmodel": {
             "sunmodel.object.json": 9
@@ -12354,7 +12355,7 @@
         },
         "serene": {
           "serenebed": {
-            "serenebed.object.json": 2
+            "serenebed.object.json": 3
           },
           "serenechair": {
             "serenechair.object.json": 4
@@ -12595,32 +12596,32 @@
           "alarm.object.json": 9
         },
         "bigredbutton": {
-          "bigredbutton.object.json": 4
+          "bigredbutton.object.json": 9
         },
         "drain": {
-          "drain.object.json": 0
+          "drain.object.json": 7
         },
         "forcepad": {
           "jumppad.object.json": 0
         },
         "invisiblesound": {
-          "invisiblesound.object.json": 0
+          "invisiblesound.object.json": 1
         },
         "landmine": {
           "landmine.object.json": 1
         },
         "lightsensor": {
-          "lightsensor.object.json": 0
+          "lightsensor.object.json": 3
         },
         "liquidsensor": {
-          "liquidsensor.object.json": 0
+          "liquidsensor.object.json": 2
         },
         "logic": {
           "and.object.json": 3,
-          "bulb.object.json": 0,
-          "countdowntimer.object.json": 0,
-          "delay.object.json": 0,
-          "dlatch.object.json": 0,
+          "bulb.object.json": 3,
+          "countdowntimer.object.json": 3,
+          "delay.object.json": 3,
+          "dlatch.object.json": 3,
           "invisibleand.object.json": 0,
           "invisiblecountdowntimer.object.json": 0,
           "invisibledelay.object.json": 0,
@@ -12629,59 +12630,59 @@
           "invisibleor.object.json": 0,
           "invisibletimer.object.json": 0,
           "invisiblexor.object.json": 0,
-          "not.object.json": 0,
+          "not.object.json": 2,
           "or.object.json": 3,
-          "timer.object.json": 0,
-          "timer1s.object.json": 0,
-          "timer2s.object.json": 0,
-          "timer3s.object.json": 0,
-          "timer4s.object.json": 0,
-          "timer5s.object.json": 0,
+          "timer.object.json": 3,
+          "timer1s.object.json": 4,
+          "timer2s.object.json": 3,
+          "timer3s.object.json": 3,
+          "timer4s.object.json": 3,
+          "timer5s.object.json": 3,
           "xor.object.json": 3
         },
         "persistentswitch": {
-          "invisiblepersistentswitch.object.json": 0,
-          "persistentswitch.object.json": 0
+          "invisiblepersistentswitch.object.json": 1,
+          "persistentswitch.object.json": 3
         },
         "proximitysensor": {
-          "invisibleproximitysensor.object.json": 0,
-          "proximitysensor.object.json": 0
+          "invisibleproximitysensor.object.json": 1,
+          "proximitysensor.object.json": 2
         },
         "scanner": {
-          "scanner.object.json": 0
+          "scanner.object.json": 9
         },
         "secretdoor": {
-          "secretdoor.object.json": 0,
-          "secrettrapdoor.object.json": 0,
-          "shared_door.object.json": 0
+          "secretdoor.object.json": 6,
+          "secrettrapdoor.object.json": 6,
+          "shared_door.object.json": 1
         },
-        "shared_.object.json": 0,
+        "shared_.object.json": 2,
         "shared_button": {
-          "shared_button.object.json": 0
+          "shared_button.object.json": 6
         },
         "shared_wallswitch": {
-          "shared_wallswitch.json": 0
+          "shared_wallswitch.json": 3
         },
         "shieldgenerator": {
-          "shieldgenerator.object.json": 0
+          "shieldgenerator.object.json": 5
         },
         "smallfloorbutton": {
-          "smallfloorbutton.object.json": 0
+          "smallfloorbutton.object.json": 2
         },
         "smallwallswitch": {
-          "invisiblewallswitch.object.json": 0,
-          "shared_smallwallswitch.json": 0,
-          "smallwallswitch.object.json": 0,
-          "smallwallswitchlit.object.json": 0
+          "invisiblewallswitch.object.json": 1,
+          "shared_smallwallswitch.json": 2,
+          "smallwallswitch.object.json": 1,
+          "smallwallswitchlit.object.json": 1
         },
         "standingturret": {
-          "standingturret.object.json": 0
+          "standingturret.object.json": 10
         },
         "tinywallbutton": {
-          "tinywallbutton.object.json": 0
+          "tinywallbutton.object.json": 2
         },
         "tinywallswitch": {
-          "tinywallswitch.object.json": 0
+          "tinywallswitch.object.json": 3
         }
       },
       "wreck": {
@@ -13244,10 +13245,10 @@
           "add_object_to_house.questtemplate.json": 23,
           "barter.questtemplate.json": 7,
           "borrow.questtemplate.json": 24,
-          "bribe.questtemplate.json": 18,
+          "bribe.questtemplate.json": 33,
           "build_home.questtemplate.json": 24,
           "capture_pet.questtemplate.json": 46,
-          "collect_fine.questtemplate.json": 18,
+          "collect_fine.questtemplate.json": 43,
           "collect_gift.questtemplate.json": 24,
           "cooking.questtemplate.json": 12,
           "craft.questtemplate.json": 12,
