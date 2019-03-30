@@ -5295,7 +5295,7 @@
           "apexcooltable.object.json": 9
         },
         "apexcouch": {
-          "apexcouch.object.json": 0
+          "apexcouch.object.json": 8
         },
         "apexcounter1": {
           "apexcounter1.object.json": 0
@@ -5403,7 +5403,7 @@
           "apexstatue1.object.json": 8
         },
         "apexstatue2": {
-          "apexstatue2.object.json": 0
+          "apexstatue2.object.json": 5
         },
         "apexstatue3": {
           "apexstatue3.object.json": 6
@@ -5457,7 +5457,7 @@
           "arrowsign.object.json": 0
         },
         "blueflask": {
-          "blueflask.object.json": 0
+          "blueflask.object.json": 8
         },
         "cider": {
           "cider.object.json": 0
@@ -5550,10 +5550,10 @@
           "grandfatherclock.object.json": 0
         },
         "greenflask": {
-          "greenflask.object.json": 0
+          "greenflask.object.json": 6
         },
         "microscope": {
-          "microscope.object.json": 1
+          "microscope.object.json": 5
         },
         "plasmadisc": {
           "plasmadisc.object.json": 0
@@ -5562,7 +5562,7 @@
           "reddangersign.object.json": 0
         },
         "redflask": {
-          "redflask.object.json": 0
+          "redflask.object.json": 6
         },
         "sandbags": {
           "sandbags.object.json": 0
@@ -5592,7 +5592,7 @@
           "shared_flowerbed.json": 0
         },
         "shared_vaseclassic": {
-          "shared_vaseclassic.json": 2
+          "shared_vaseclassic.json": 4
         },
         "shared_vaseclassiclarge": {
           "shared_vaseclassiclarge.json": 0
@@ -5601,7 +5601,7 @@
           "tesla.object.json": 8
         },
         "teslaspike": {
-          "teslaspike.object.json": 0
+          "teslaspike.object.json": 6
         },
         "turret": {
           "turret.object.json": 7
@@ -5706,7 +5706,7 @@
           "rainbowpainting.object.json": 0
         },
         "rainbowunicornstatue": {
-          "rainbowunicornstatue.object.json": 0
+          "rainbowunicornstatue.object.json": 1
         },
         "sandstonestatueapex": {
           "sandstonestatueapex.object.json": 0
@@ -7645,7 +7645,7 @@
             "glitchbaronfigure.object.json": 7
           },
           "glitchchess": {
-            "glitchchess.object.json": 0
+            "glitchchess.object.json": 2
           },
           "glitchdecree": {
             "glitchdecree.object.json": 2
@@ -8441,7 +8441,7 @@
         },
         "durasteelelevator": {
           "durasteelelevatorlong.object.json": 1,
-          "durasteelelevatorshort.object.json": 0,
+          "durasteelelevatorshort.object.json": 1,
           "shared_durasteelelevator.json": 2
         },
         "eggchair": {
@@ -9802,7 +9802,7 @@
           "prisongraffiti1.object.json": 0
         },
         "prisongraffiti2": {
-          "prisongraffiti2.object.json": 0
+          "prisongraffiti2.object.json": 1
         },
         "prisongraffiti3": {
           "prisongraffiti3.object.json": 0
@@ -12726,7 +12726,7 @@
           "wreckgenerator.object.json": 5
         },
         "wrecklocker": {
-          "wrecklocker.object.json": 3
+          "wrecklocker.object.json": 8
         },
         "wreckpanel1": {
           "wreckpanel1.object.json": 2
@@ -12735,13 +12735,13 @@
           "wreckpanel2.object.json": 2
         },
         "wreckscreen": {
-          "wreckscreen.object.json": 0
+          "wreckscreen.object.json": 3
         },
         "wrecksmalltable": {
           "wrecksmalltable.object.json": 0
         },
         "wrecksupport": {
-          "wrecksupport.object.json": 0
+          "wrecksupport.object.json": 4
         },
         "wrecktable": {
           "wrecktable.object.json": 0
@@ -12759,7 +12759,7 @@
           "wreckvat1.object.json": 0
         },
         "wreckvendingmachine": {
-          "wreckvendingmachine.object.json": 0
+          "wreckvendingmachine.object.json": 7
         },
         "wreckvent": {
           "wreckvent.object.json": 0
@@ -13248,7 +13248,7 @@
           "bribe.questtemplate.json": 33,
           "build_home.questtemplate.json": 24,
           "capture_pet.questtemplate.json": 46,
-          "collect_fine.questtemplate.json": 43,
+          "collect_fine.questtemplate.json": 44,
           "collect_gift.questtemplate.json": 24,
           "cooking.questtemplate.json": 12,
           "craft.questtemplate.json": 12,
